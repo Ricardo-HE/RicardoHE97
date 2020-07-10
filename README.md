@@ -2,7 +2,7 @@
 
 I'm Ricardo. I am an aspiring software developer 💻 and a machine learning 🤖 enthusiast from México 🇲🇽.
 
-I am an intern at [nearsoft](https://nearsoft.com/). 
+I am an intern at [Nearsoft](https://nearsoft.com/). 
 
 **Where to find me or contact me**
 
