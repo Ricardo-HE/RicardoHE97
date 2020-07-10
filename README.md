@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Ricardo. I am an aspiring software developer 💻 and a machine learning 🤖 enthusiast from México 🇲🇽.
+
+I am an intern at [nearsoft](https://nearsoft.com/). 
+
+**Where to find me or contact me**
+
+🌐[Ricardohe97.github.io](https://ricardohe97.github.io/) 📫[rholguin@protonmail.com](mailto:rholguin@protonmail.com)
+
 <!--
 **RicardoHE97/RicardoHE97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
