@@ -2,8 +2,6 @@
 
 I'm Ricardo. I am an aspiring software developer 💻 and a machine learning 🤖 enthusiast from México 🇲🇽.
 
-Currently I'm an intern at [Nearsoft](https://nearsoft.com/). 
-
 **Where to find me or contact me**
 
 🌐[Ricardohe97.github.io](https://ricardohe97.github.io/) 📫[rholguin@protonmail.com](mailto:rholguin@protonmail.com)
