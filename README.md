@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ricardo. I am an aspiring software developer 💻 and machine learning 🤖 enthusiast from México 🇲🇽.
+I'm Ricardo. I am a software developer 💻 and machine learning 🤖 enthusiast from México 🇲🇽.
 
 **Where to find me or contact me**
 
